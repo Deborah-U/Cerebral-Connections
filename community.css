@@ -1,0 +1,33 @@
+.intro-disc{
+  background: rgba(158, 105, 191, 0.5);
+  margin-top: -10px;
+}
+
+.intro-disc img{
+  width: 250px;
+}
+
+.discord{
+  background: rgba(159, 112, 170, 0.18);
+
+}
+
+.discord img{
+  width: 70%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.discord button{
+  background-color: rgba(171, 145, 223, 1);
+  height: 45px;
+  width: 150px;
+  border-radius: 4px;
+  /* padding: 20px, 56px, 20px, 56px; */
+  color: white;
+  border: 1px solid rgba(127, 87, 158, 1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

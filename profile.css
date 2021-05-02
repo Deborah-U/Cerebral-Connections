@@ -1,0 +1,65 @@
+.profile {
+  display: flex;
+  justify-content: space-around;
+}
+
+.profile-photo {
+  background: rgba(158, 105, 191, 0.5);
+  
+}
+
+.profile-photo img{
+  width: 80%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.profile-info{
+  background: rgba(234, 207, 250, 0.46);
+  min-width: 50% ;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+.info-1{
+  display: flex;
+  justify-content: space-around;
+}
+
+.info{
+  padding-right: 30px;
+}
+
+.info-2{
+  display: flex;
+  justify-content: space-around;
+}
+
+.hab{
+  padding-right: 30px;
+} 
+
+.date form{
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.day{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.date form input{
+  display: flex;
+  justify-content: space-around;
+  width: 30px;
+}
+
+button{
+  background: rgba(171, 145, 223, 1);
+  color: white;
+  border: 1px solid #7F579E;
+  border-radius: 4px;
+  padding: 10px, 56px, 10px, 56px;
+
+}
